@@ -2,6 +2,12 @@
 
 A competitive programming contest tracker and hackathon event dashboard.
 
+## 🌐 Live Demo
+
+👉 **[https://sharmapiyush11.github.io/Contest-Tracker/](https://sharmapiyush11.github.io/Contest-Tracker/)**
+
+---
+
 ## 🚀 Features
 
 - **Upcoming Contests**: Track competitive programming contests across platforms (LeetCode, CodeChef, GeeksforGeeks, Codeforces).
@@ -14,7 +20,7 @@ A competitive programming contest tracker and hackathon event dashboard.
 
 - **HTML5 & CSS3**
 - **JavaScript (ES Modules)**
-- **Python `http.server`** for local testing
+- **GitHub Pages** for deployment
 
 ## 💻 Getting Started Locally
 
